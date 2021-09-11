@@ -1,12 +1,14 @@
 # A crusade against rejected by novelty
 
-Tips to argue against "your work lacks novelty. It's under the bar of the conference/journal".
+Tips to get rid of the subjective label "your work lacks novelty. It's under the bar of the conference/journal".
 
 > Sorry to hear that. Out there, there is a frustrated 🤓 troll with a keyboard as solely weapon.
 
-1. Use something along [these lines](https://twitter.com/ArashVahdat/status/1433877678541574145?s=20).
+1. As an author receiving it,
 
-2. Politely squeeze it such that they spit that [their judgment is based on a subjective perception](https://twitter.com/ozansener/status/1434175858676322305).
+  2. Use something along [these lines](https://twitter.com/ArashVahdat/status/1433877678541574145?s=20).
+
+  2. Politely squeeze it such that they spit that [their judgment is based on a subjective perception](https://twitter.com/ozansener/status/1434175858676322305).
 
 3. When you are a reviewer, do your duty and obey the golden rule.
 
