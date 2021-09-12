@@ -1,9 +1,8 @@
 # Llegó la noche 😱
 
-Ésta semana pasada conversaba con un empresario independiente pequeño, nacido entre años 60-70, y responsable en el sentido que su oficio provee a su familia pero pienso creo que sin cifras astronómicas que el mainstream considera "exito".
-Él expresó: "Colombia esta empeorando. El gobierno actual es el peor gobierno de mi vida".
+Ésta semana que pasó conversé con un empresario independiente pequeño, nacido entre años 60-70, responsable, y que con su oficio provee a su familia. Tal vez sin cifras astronómicas de dinero o un sin fín de bienes materiales que el mainstream consideraría "exitoso". En fin, el típico colombiano de la clase media.
 
-Esta es mi respuesta y espero ser más persuasivo ahora.
+Él expresó: "Colombia esta empeorando. El gobierno actual es el peor gobierno de mi vida". Esta es mi respuesta y espero ser más persuasivo ahora. Sólo es una perspectiva de que porque vamos en buen camino, a pesar que los 1ros en la tabla (los gobernantes) NO sean del equipo de nuestros colores.
 
 Colombia va mucho mejor que aquella Colombia de una década después de la [Marquetalia](https://es.wikipedia.org/wiki/Rep%C3%BAblica_de_Marquetalia).
 En gran parte no es gracias a los dirigentes, lo es gracias a la tecnología y a los colombianos de a pie. Aquellos que NO se han rendido a pesar de las bofetadas de ciertos compatriotas.
