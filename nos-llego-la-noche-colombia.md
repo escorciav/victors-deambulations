@@ -9,14 +9,14 @@ En gran parte no es gracias a los dirigentes, lo es gracias a la tecnología y a
 
 En lugar de debatir sin fundamentos, discutamos algo preciso. Por ejemplo, revisemos los indices sociales para medir progreso económico y revisemos las estadísticas.
 
-**Tarea para el querido lector**. Buscar la gráfica de mortalidad infantil desde los años 70 hasta 2020. Si esa curva va en descenso, de forma sincera les doy la razón.
+**Tarea para el querido lector**. Buscar la gráfica de mortalidad infantil desde los años 70 hasta 2020. Si esa curva va en ascenso, de forma sincera les doy la razón.
 
 ![meme alvira abudinen](https://i.imgflip.com/5moqr5.jpg)
 
 Entonces compadre, ¿nos llegó la noche? NO!
 
 La inversión extrajera en LATAM esta creciendo. Casos para estar orgullosos y creer que se puede son Rappi, Kiwi, etc.
-Esas empresas capturan capital de riesgo gracias a la estabilidad política y económica. Algunos inversores están decididos a apostar por ellas para resolver generalizados de LATAM.
+Esas empresas capturan capital de riesgo gracias a la estabilidad política y económica. Algunos inversores están decididos a apostar por ellas para resolver problemas generalizados de LATAM.
 Esas empresas generan empleos de calidad en Colombia y LATAM. Comparen los sueldos de sus amigos ingenieros en Rappi y Mercado libre con sueldos de empresas antiguas, o incluso mineras.
 Yo la verdad prefiero a mis compatriotas en frente de un computador y un ejercito de robots explotando recursos naturales.
 
@@ -33,6 +33,6 @@ Yo la verdad prefiero a mis compatriotas en frente de un computador y un ejercit
     En lugar de pensar en tumbar a los políticos en las urnas, por curules estériles que no representan a más del 50% del país.
     Propogámonos que en 10-15 años, los políticos de turno pedirán cita para conversar con nosotros. Que en 10 años vamos a competir de tú a tú, con recursos económicos generados por nosotros mismos o de capital de riesgo, con los clanes de los Char, Daes, Díaz-Granados, Gnecco, etc.
 
-    ¿Estas loco/soñando? Nunca lo lograras! Nos diran algunos.
+    ¿Estas loco/soñando? Nunca lo lograras! Nos dirán algunos.
 
     Esos son los pobres diablos. Nos toca oirlos, pero NO los escucharemos! Al menos nosotros somos soñadores autónomos.
