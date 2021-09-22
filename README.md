@@ -22,4 +22,6 @@ Pseudo-random deambulations.
 
 ## License
 
-WTFPL
+Content: WTFPL
+
+Code (absent so far 😅): MIT 
