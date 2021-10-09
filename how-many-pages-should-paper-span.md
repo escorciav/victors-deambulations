@@ -8,20 +8,24 @@ The format of the papers spanned an opinionated discussion in social media and a
 
 ### less is more, but ...
 
-We already know that. Haven't you seen PI of large groups presenting two papers in 5 minutes or less?
+We already know that. Have you seen a senior researcher (Professor) presenting two papers in 5 minutes or less?
 
 However, a sharp reader might have anticipated that the scope of a talk is way different from peer-review.
-IMHO, during peer-review, we scrutinize if an idea: (1) comply with the scientific method and (2) expand the body of knowledge further.
+IMHO, during peer-review we scrutinize if an idea: (1) comply with the scientific method and (2) expand the body of knowledge further.
+Thus, enough rigurosity in the presentation is needed to fullfil the two objectives.
 
 ### so, give me a number!
 
 I'm sorry to disappoint you; I don't have a concrete number.
-Indeed, I do not care about the number of pages subject to:
-a. the paper is clear and well-written.
-b. I can assess it (easy to traverse and find relevant experiments)
-c. I can fit it on my schedule.
+Indeed, I do not care about the number of pages as long as:
 
-Note that constraints a & b are under your control. Some tips and checklists to have in mind:
+1. the paper is clear and well-written.
+
+2. I can assess it. Namely, (i) it's easy to traverse, (ii) it's technically sound, (iii) find relevant experiments, and (iv) present appropriate comparisons).
+
+3. I can fit it on my schedule.
+
+Note that the first two constraints are under the author's control. Some tips and checklists that tell about the quality of the presentation are:
    
 - Use straightforward English.
 
@@ -37,24 +41,33 @@ Note that constraints a & b are under your control. Some tips and checklists to 
 
 It depends on what you want.
 
-The work that people are talking about is a cute piece of experimental research with sarcastic tones. At least that's my take when you put the emoji in figure 1.
+I won't comment about the paper under-review. Other than saying that it's a cute piece of experimental research with sarcastic tones (title, figure 1, etc).
 
-I do know that some companies see publications as the lowest-tier for their business growth. For people working there, writing less than 8-pages is a blessing. Is it also a blessing for the game between authors, reviewers & judges?
+ I do know that some companies see publications as the lowest-tier for their business growth. For people working there, writing less than 8-pages is a blessing. Is it also a blessing for the game between authors, reviewers & judges?
 
-### What about the impact?
+### On impact, and another concern of people with the paper
 
-Jumping to "some ideas are as simple that few pages are enough, as one can see their impact" is another cup of tea.
-Rating something as "impactful" sounds as subjective as "is/not novelty." I wrote about the latter [here](https://github.com/escorciav/victors-deambulations/blob/main/crusade-against-reject-by-novelty.md).
+- Isn't it disrecpectful to present an idea onto a "top-tier venue" without the maximum number of pages?
 
-My questions to those claiming to be excellent and gauging impact are:
-
-- Isn't it impact something that we measure in the future?
+   First, deciding what's disrecpectful is up to the judges. If the tips about presentation were followed, authors are just being creative in the presentation of their work.
  
-- If so, accepting a paper as I deem it valuable in the future, then shouldn't the community assess my decision in the future?
+   Similarly, venues become "top-tier" due to impact, not to number of pages. Thus, short papers is OK in principle.
 
-![dunno-rick-looks-like-gambling](https://i.imgflip.com/5ptehy.jpg)
+-  Short presentation might correspond to simple ideas. Thus, those are the impactful ones.
 
-For those who like gambling or believe themselves good gamblers, shall we run a stress test?
+   In other words, "More papers like this are needed. Some ideas are simple that few pages are enough. As long as the judges feel that it's impactful is OK."
+   
+   The quote above is another cup of tea. Rating something as "impactful" sounds as subjective as "is/not novelty." I wrote about the latter [here](https://github.com/escorciav/victors-deambulations/blob/main/crusade-against-reject-by-novelty.md).
 
-How? read my entry about [novelty](https://github.com/escorciav/victors-deambulations/blob/main/crusade-against-reject-by-novelty.md).
-I left an idea there for our peer-review system, fractional authorship/contribution 😜.
+   My questions to those claiming to be excellent and gauging impact are:
+
+   - Isn't it impact something that we measure in the future?
+ 
+   - If so, accepting a paper as I deem it valuable in the future, then shouldn't the community assess my decision in the future?
+
+   ![dunno-rick-looks-like-gambling](https://i.imgflip.com/5ptehy.jpg)
+
+   For those who like gambling or believe themselves good gamblers, shall we run a stress test?
+
+   How? read my entry about [novelty](https://github.com/escorciav/victors-deambulations/blob/main/crusade-against-reject-by-novelty.md).
+   I left an idea there for our peer-review system, fractional authorship/contribution 😜.
