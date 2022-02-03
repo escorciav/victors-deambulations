@@ -11,7 +11,7 @@ Wait, why `+1`? Do you invoke God or a deity in your group readings? 🧝🏽‍
 
 The additional interpretation is the paper itself. It's science; we are welcome to challenge whatever evidence :wink:.
 
-Interestingly, there was an interesting [tweet exchange among computer vision researchers](https://twitter.com/jhhays/status/1441408494234701825).
+There was an interesting [tweets exchange among computer vision researchers](https://twitter.com/jhhays/status/1441408494234701825).
 IMHO, that discussion exemplifies a particular instance of the claim presented above. Namely,
 
 *consuming a paper or any theory is not enough for deep understanding if we don't interpret it in our terms*
