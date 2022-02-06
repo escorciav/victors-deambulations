@@ -14,7 +14,11 @@ Pseudo-random deambulations.
 
 - Write!
 
-- Add a Jekyll blog theme
+- Add a Jekyll/Pelican blog theme
+
+  - [Brutalist](https://github.com/mc-buckets/brutalist/tree/de551620221ec3f1958250adfaffbbc81e9b748c)
+
+  - [Attila](https://github.com/arulrajnet/attila/tree/02dcad911ba1eb2d797a79ec008a810d89a2fde1)
 
 ## Wanna contribute?
 
@@ -24,4 +28,4 @@ Pseudo-random deambulations.
 
 Content: WTFPL
 
-Code (absent so far 😅): MIT 
+Code (absent so far 😅): MIT
