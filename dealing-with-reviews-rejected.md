@@ -16,7 +16,7 @@ Academia is a long-term game with sparse, often unclear rewards.
 
 - It's up to you to distill the knowledge to tighten up your game 🙂💪. I might help 😊, but help me to help you.
 
-_Practice makes perfect_
+## Practice makes perfect
 
 You should reflect on the journey to make the next cycle more successful.
 
@@ -30,7 +30,7 @@ You should reflect on the journey to make the next cycle more successful.
 
 - You can still practice most of them while crafting a rebuttal 😉.
 
-_Why craft a rebuttal?_
+## Why craft a rebuttal?
 
 It seems that you are hopeless, and I don't like creating high expectations. If I know that I will die in two months, I will take a huge credit line 😂.
 
