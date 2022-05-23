@@ -1,7 +1,5 @@
 # Dealing with peer review feedback, quasi reject
 
-> A brief note to a young mentee of mine after ECCV2022 reviews. Her first work as first author & main contributor.
-
 The assessment is indeed less encouraging than CVPR2022. As anticipated, we drew another reviewer pool. Thus, the discrepancy 🥲.
 
 With less skin in the game, yet after playing it and getting defeated many times, I conclude that:
