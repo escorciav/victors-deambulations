@@ -25,6 +25,9 @@ While guided tours are widely available, I was fortunate to have a friend living
 His personalized tour revealed hidden courtyards, secret gardens, and lesser-known historical facts.
 It was a unique and intimate experience, making me appreciate the city on a whole new level.
 Thus, explore it with a local if you have the chance. Much preferably, a local friend.
+Unfortunatly, there are **NO** free walking tours in Italian in Cambridge 🇮🇹.
+If you don't mind my broken Italian, I'm happy to try.
+I'm glad that Giada compiled a some notes in Italian for our usual tour [here 📝](https://drive.google.com/file/d/1VxKrLTY5XR6xRYXXPA_OUcCfxmCEBmUy/view?usp=sharing).
 
 ## Unsponsored tip
 
