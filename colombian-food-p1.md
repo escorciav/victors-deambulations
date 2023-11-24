@@ -48,11 +48,11 @@ I guess those who missed the weather perhaps.
 
 _Dulces & Desserts_
 
-4. Any fruits: mango 🥭, papaya, patilla 🍉.
-In the coast, go for the seasonal first otherwise it's gambling.
+1. Any fruits: mango 🥭, papaya, patilla 🍉.
+In the coast, I'd go for the seasonal first otherwise it's gambling.
 
-    In Bogota, you can go to Plaza de la Perseverancia or a tour in the food central (forgot the name, ask Sandra or JC).
-    There is safe to taste any fruit regardless of the season.
+    In Bogota, you can go to Plaza de la Perseverancia or [Paloquemao](https://plazadepaloquemao.com/wp-content/cache/wp-rocket/plazadepaloquemao.com/index-https-webp.html).
+    There, it's safer to taste any fruit regardless of the season.
 
 4. Cocadas, coconut candy.
 There are different kinds, enjoy and lemme know your top-3.
