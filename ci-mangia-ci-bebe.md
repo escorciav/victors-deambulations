@@ -10,7 +10,7 @@ I have a list of places to visit if you happen to be in the area.
 ## Brioche e cafe 🥐☕
 
 An typical italian person might just have a espresso for breakfast.
-But, that's not enough for me (& many more, in' it?) 😅.
+But, that's not enough for me (& many more, innit?) 😅.
 Here it's my go to list:
 
 > ❣️ Brioche in Veneto/Italy is a croissant typically filled in, but you can get it empty as well.
