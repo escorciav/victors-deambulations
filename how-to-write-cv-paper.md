@@ -21,6 +21,8 @@
 
 1. [Grab practical tips from Jia-Bin's posts](https://docs.google.com/document/d/1M3nifezfXkgYTY1O0yKAKJHTcLAGUDkqj7iDPHqsqgk/edit#heading=h.r1yr0mkwo4py)
 
+    1. [More practical tips, ML context.](https://twitter.com/pcastr/status/1750496646905921765)
+
 1. [The Affective Growth of Computer Vision by David Crandall](https://uofi.app.box.com/s/kvgg0c76kzpmd6xr348mah2r69hpk35r) at [CVPRW 2023.](https://sites.google.com/view/academic-cv/home)
 
     Slide 19: _"The amount of time and effort put into each paper has gone downhill. I would put much time into my papers, especially in the intro..."_
