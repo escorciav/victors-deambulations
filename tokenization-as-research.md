@@ -20,3 +20,7 @@ From a signal processing point of view, tokenization is "statistical quantizatio
 - Why am I talking about it?
   - [Andrej's may ignite a trend](https://twitter.com/karpathy/status/1759996551378940395)
   - Youtubers are using the word "tokens" while communicating with their (only :nerd_face:?) audience.
+- Other work
+  - Catchy title from [Google Research: Irfan, Jose, David, Ming 🤩](https://magvit.cs.cmu.edu/v2/)
+  - DeepMind Vision London
+  - Justin's UMich group on jpeg transformer
