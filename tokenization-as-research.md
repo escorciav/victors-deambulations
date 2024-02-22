@@ -1,4 +1,6 @@
-# How to frame tokenization as a cool research project?
+# WIP: How to frame tokenization as a cool research project?
+
+## Own stuff from slack convo
 
 From a signal processing point of view, tokenization is "statistical quantization over given symbols"
 
@@ -12,3 +14,9 @@ From a signal processing point of view, tokenization is "statistical quantizatio
 3. Statistical
   Data isn’t scarce.
   Thus, we can't disregard a statistical analysis of the matter.
+
+## Pointers
+
+- Why am I talking about it?
+  - [Andrej's may ignite a trend](https://twitter.com/karpathy/status/1759996551378940395)
+  - Youtubers are using the word "tokens" while communicating with their (only :nerd_face:?) audience.
