@@ -11,7 +11,7 @@
 
     1. Awaiting from [Pablo](https://scholar.google.com/citations?user=k0nZO90AAAAJ&hl=en)
 
-    1. TODO: check if [Domingo Mery](https://domingomery.ing.puc.cl/about-me/) posted his talk/slide deck.
+    1. [Domingo Mery: 2018 How-To-Write](https://domingomery.ing.puc.cl/presentations/), & [Effective scientific comunication](https://www.dropbox.com/s/34f1j94il633631/2022-ComunicacionCientifica.pptx?e=4).
 
 ## References
 
