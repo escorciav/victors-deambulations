@@ -1,6 +1,6 @@
-# [How To Write A Computer Vision Paper?](https://docs.google.com/presentation/d/1p-uYv0JPZB1Wqf9AKQdL6WXId4jDW6fCOoNOhHv-aZg/edit?userstoinvite=yasser.benigmim@gmail.com&sharingaction=manageaccess&role=writer#slide=id.p)
+# [How To Write A Computer Vision Paper?](https://docs.google.com/presentation/d/1p-uYv0JPZB1Wqf9AKQdL6WXId4jDW6fCOoNOhHv-aZg)
 
-You can find the talk [**here**](https://docs.google.com/presentation/d/1p-uYv0JPZB1Wqf9AKQdL6WXId4jDW6fCOoNOhHv-aZg/edit?userstoinvite=yasser.benigmim@gmail.com&sharingaction=manageaccess&role=writer#slide=id.p)
+You can find the talk [**here**](https://docs.google.com/presentation/d/1p-uYv0JPZB1Wqf9AKQdL6WXId4jDW6fCOoNOhHv-aZg)
 
 It was a fun experience preparing for the talk with Fabian.
 As usual, working with Fabian is fun.
